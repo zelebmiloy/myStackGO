@@ -1,4 +1,4 @@
 var React = require('react-native');
 var { AppRegistry } = React;
-var list = require('./mystackGO');
-AppRegistry.registerComponent('mystack',()=>mystack);
+var list = require('./myStackGO');
+AppRegistry.registerComponent('myStackGO',()=>mystack);
